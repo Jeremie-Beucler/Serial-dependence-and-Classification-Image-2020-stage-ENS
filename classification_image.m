@@ -154,8 +154,8 @@ for ifile = 1:nfiles
 
 	% we compute the classification images and save them
 	% as a jpg file for each subject
-	class_image_left = meanMatrixleft - meanMatrixright;
-	class_image_right = meanMatrixright - meanMatrixleft;
+	class_image_left = uint8((meanMatrixleft - meanMatrixright) + 191);
+	class_image_right = uint8((meanMatrixright - meanMatrixleft) + 191);
 	
 	shorter_name = current_name((length(current_name) - 7) : (length(current_name) - 4));
 	
