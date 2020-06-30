@@ -24,8 +24,9 @@ Ce phénomène perceptif de bas-niveau, qui ne s'explique pas par des effets de 
 
 L'image de classification est une technique comportementale employée en psychophysique. Dans sa forme traditionnelle, elle consiste à ajouter du "*bruit visuel*", c'est-à-dire des pixels distribués aléatoirement, aux stimuli présentés aux sujets. Ces derniers réalisent par exemple une tâche de détection classique, comme dire si le chiffre 3 est présent. Avec suffisamment d'essais, il est possible de faire la moyenne des pixels ajoutés aux stimuli dans l'expérience afin d'en tirer une image de classification. Par exemple, si je fais la moyenne des pixels de tous les essais où le sujet a dit que le chiffre 3 était présent alors qu'il ne l'était pas (fausse alarme), j'obtiendrai ce qui en moyenne a poussé le sujet à répondre de cette manière, et donc l'équivalent "*template*" interne du chiffre 3 du sujet. Cette image peut être rendu encore plus claire si je lui soustrais son opposé, son "*négatif*" photographique (pour filer l'exemple, toutes les fois où le sujet a dit que le chiffre 3 était absent alors qu'il était présent). Cette technique, d'abord cantonnée au champ de la psychophysique, est maintenant employée dans d'autres champs de la psychologie.
 
-![Figure_female_social_psy](figure_female.jpg) https://link.springer.com/article/10.3758/s13428-019-01232-2/figures/1
-*Image de classification + source + visuali femi*
+![Figure_female_social_psy](CI_soc.png)
+
+*Exemple de l'utilisation de l'image de classification en psychologie sociale (Brinkman et al, 2019)*
 
 L'intérêt de cette technique, et ce qui la rend si intéressante, est sa nature visuelle et le fait qu'on ne sache pas à l'avance ce qu'on va obtenir : "*Is it the visual nature of the classification image, or is it its exploratory nature that resembles a sort of archeology of perceptual processes » that makes it interesting ?*" (Eckstein & Ahumada, 2002).
 
