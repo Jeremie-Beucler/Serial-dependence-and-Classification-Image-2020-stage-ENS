@@ -13,6 +13,7 @@ Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans 
 Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets sur la "*dépendance sérielle*" dans la perception visuelle. La dépendance sérielle consiste en l'intégration temporelle d'informations telles que l'orientation ou la numérosité. Elle est typiquement mise en évidence dans des expériences exigeant des sujets de juger de l'orientation de barres, où l'on constate que la réponse en *n* des sujets est influencée par la réponse en (n-1), (n-2), et ce jusqu'à environ 15 secondes dans une zone bien délimitée du champ visuel appelée *"continuity field"*, couvrant environ 15 degrés d'angle visuel ((Fischer & Whitney, 2014).
 
 ![Figure_F_and_W](figure_fischer.jpg)
+
 *Résultats tirés de l'article de Fischer et Whitney (2014) sur la dépendance sérielle*
 
 Ce phénomène perceptif de bas-niveau, qui ne s'explique pas par des effets de critères de décision, permettrait ainsi d'assurer une stabilité perceptive. Il constituerait un a priori perceptif en faveur d'un monde stable malgré les informations perceptives perpétuellement changeantes (e.g. la luminosité changeant constamment à cause des nuages passant devant le soleil), au même titre que notre système perceptif assure la constance de taille, de couleur ...
