@@ -2,7 +2,7 @@
 
 ## Le cadre du stage
 
-Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans le cadre du DENS, sous la tutelle de Thérèse Collins, à l'*INCC* (Integrative Neuroscience and Cognition Center, Université de Paris). Il n'était pas rémunéré et officiellement les horaires était d'un jour plein par semaine. Malheureusement, à cause de la pandémie et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé quasiment entièrement en ligne, par le biais de courriels ou de visioconférences.
+Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans le cadre du DENS, sous la tutelle de Thérèse Collins, à l'*INCC* (Integrative Neuroscience and Cognition Center, Université de Paris). Il n'était pas rémunéré et officiellement les horaires était d'un jour plein par semaine. Malheureusement, à cause de la pandémie et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé quasiment entièrement à distance, par courriels ou visioconférences.
 
 ## Le projet de recherche : dépendance sérielle et image de classification
 
