@@ -74,6 +74,7 @@ A chaque essai, une croix de fixation était présentée durant 1 seconde, suivi
 
 ![procédure-schéma](instruction_4.png)
 
+
 Chaque sujet avait 14 essais d'entraînement au début de l'expérience, dont 8 avec un feedback de succès ou d'échec pour être certain qu'ils avaient bien compris la tâche et mémorisé l'orientation de référence. L'expérience comportait en tout 390 essais par sujet, soit 30 présentation des 13 orientations choisies entre 200° et 250°. L'ordre des présentations était aléatoire, et les sujets avaient le droit de prendre une pause au milieu de l'expérience.
 
 
