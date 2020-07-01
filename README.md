@@ -72,6 +72,7 @@ Au début de l'expérience, les sujets étaient amenés à mémoriser un Gabor p
 
 A chaque essai, une croix de fixation était présentée durant 1 seconde, suivie d'un Gabor patch dans une orientation randomisée entre 200° et 250 pendant 500ms. Le sujet comparait alors cette orientation à l'orientation de référence grâce aux flèches droite et gauche du clavier.
 
+
 ![procédure-schéma](instruction_4.png)
 
 
