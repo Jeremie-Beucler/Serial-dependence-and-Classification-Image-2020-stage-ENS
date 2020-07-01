@@ -14,7 +14,7 @@ Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets
 
 ![Figure_F_and_W](figure_fischer.jpg)
 
-*Résultats tirés de l'article de Fischer et Whitney (2014) sur la dépendance sérielle*
+*Résultats tirés de l'article de Fischer et Whitney (2014) sur la dépendance sérielle : on voit que l'essai actuel est influencé par l'essai précédent*
 
 Ce phénomène perceptif de bas-niveau, qui ne s'explique pas par des effets de critères de décision, permettrait ainsi d'assurer une stabilité perceptive. Il constituerait un a priori perceptif en faveur d'un monde stable malgré les informations perceptives perpétuellement changeantes (e.g. la luminosité changeant constamment à cause des nuages passant devant le soleil), au même titre que notre système perceptif assure la constance de taille, de couleur ...
 
