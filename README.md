@@ -32,6 +32,8 @@ L'intérêt de cette technique, et ce qui la rend si intéressante, est sa natur
 
 ### Application de la technique de l'image de classification à la dépendance sérielle
 
+La tâche était simple : les sujets mémorisaient un *Gabor patch* dans une certaine orientation au tout début de l'expérience. Ensuite, après un bref entraînement, ils devaient indiquer si le stimulus qui s'affichait devant eux était orienté à droite ou à gauche du Gabor de référence.
+
 L'idée était donc d'étudier la dépendance sérielle, dans une tâche de jugement d'orientation, via la technique de l'image de classification. Cela permettrait de savoir ce qui, dans les stimuli précédant le stimulus actuelle, influençait la réponse actuelle du sujet. Autrement dit, de savoir quels aspects du stimulus intervenaient dans la dépendance sérielle.
 
 Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux stimuli. Cela se justifiait dans la mesure où nous ne  voulions pas bruiter les données, et où justement nous étions intéressés par les stimuli précédant le stimulus actuel. Dès lors, comment obtenir l'image de classification ? En faisant la moyenne des pixels des stimuli en (n-1) vus par le sujet, et ayant influencé sa réponse en (n) via le phénomène de la dépendance sérielle. 
@@ -43,7 +45,26 @@ Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux sti
 
 La démarche était alors doublement exploratoire : non seulement nous ne savions pas quelle image nous allions obtenir, mais de surcroît, cette image de classification ne correspondait pas à la technique classique, consistant à faire la moyenne du bruit visuel ajouté aux stimuli présentés pour telle réponse.
 
-2. Méthode
+# Méthode
+
+## Participants
+
+Les critères d'inclusion étaient d'avoir de 18 à 40 ans, de ne pas avoir de trouble neurologique connu, d'avoir une vision normale ou corrigée et de ne pas prendre de médicaments influençant la vue ou la vigilance. L'échantillonnage était de convenance, dans la mesure où les sujets ont été recrutés par courriel ou sur le réseau social Facebook. L'expérience n'étant pas rémunérée, ils étaient tous volontaires.
+
+Dix sujets ont passé l'expérience (n = 10), dont 4 garçons et 6 filles d'un âge moyen de 25.2 ans (SD = 2.6). 
+
+
+## Stimuli
+
+Les *Gabor patchs* ont été créés sur Matlab grâce à la fonction "*CreateProceduralGabor*" de *Psychtoolbox* (Kleiner, Brainard & Peli, 2007). Ils avaient une fréquence spatiale de 0.03 cycles par pixel (?) et un écart-type de 32° (?).
+
+![gabor](example_gabor.png)
+
+*Exemple de Gabor utilisé dans l'expérience*
+
+
+
+
 
 3. Resultats
 
