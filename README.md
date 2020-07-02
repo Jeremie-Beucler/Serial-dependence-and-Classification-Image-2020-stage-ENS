@@ -105,15 +105,17 @@ On voit donc ici que les sujets réalisent bien en moyenne la tâche de discrimi
 
 ### Mise en évidence de la dépendance sérielle
 
-Pour vérifier la présence de la dépendance sérielle, il est possible de modéliser cette même fonction sigmoïde, mais en séparant les réponses pour lesquelles l'orientation en (n-1) était à gauche de l'orientation de base des réponses pour lesquelles l'orientation en (n-1) était à droite.
+Pour vérifier la présence de la dépendance sérielle, il est possible de modéliser cette même fonction sigmoïde pour chaque sujet, mais en séparant les réponses pour lesquelles l'orientation en (n-1) était à gauche de l'orientation de base des réponses pour lesquelles l'orientation en (n-1) était à droite.
 
-On obtient ainsi la même figure, mais avec deux courbes bien distinctes :
+On obtient ainsi la même figure, mais avec deux courbes bien distinctes, comme le montre l'exemple suivant (tiré des résultats d'un sujet) :
 
 ![serial_dep](serial_dependence.png)
 
 *Courbe rouge : essai en (n-1) à droite; courbe bleue : essai en (n-1) à gauche de l'orientation de référence*
 
+On note ici que le seuil n'est pas le même en fonction de l'orientation en (n-1) : quand l'essai en (n-1) est à droite, le seuil se décale vers la gauche (ici : 222.5), et le sujet va ainsi avoir tendance à considérer que l'orientation en (n) est à droite alors qu'elle est, par exemple, très légèrement à gauche de l'ancre de référence.
 
+Pour autant, si les résultats de ce sujet-ci sont particulièrement clairs, il faut noter que l'effet est parfois plus léger - si ce n'est inexistant - pour certains sujets, voire inverse aux résultats attendus. Ainsi, faire la moyenne des résultats sur tous les sujets risquerait de neutraliser les effets de dépendance sérielle à cause de cette variabilité inter-sujets.
 
 4. Discussion
 
