@@ -103,7 +103,17 @@ Le seuil moyen (i.e. l'orientation pour laquelle il y avait 50% de réponses "ga
 
 On voit donc ici que les sujets réalisent bien en moyenne la tâche de discrimination demandée.
 
-### 
+### Mise en évidence de la dépendance sérielle
+
+Pour vérifier la présence de la dépendance sérielle, il est possible de modéliser cette même fonction sigmoïde, mais en séparant les réponses pour lesquelles l'orientation en (n-1) était à gauche de l'orientation de base des réponses pour lesquelles l'orientation en (n-1) était à droite.
+
+On obtient ainsi la même figure, mais avec deux courbes bien distinctes :
+
+![serial_dep](serial_dependence.png)
+
+*Courbe rouge : essai en (n-1) à droite; courbe bleue : essai en (n-1) à gauche de l'orientation de référence*
+
+
 
 4. Discussion
 
