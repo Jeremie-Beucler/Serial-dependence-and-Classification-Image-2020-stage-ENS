@@ -113,10 +113,18 @@ On obtient ainsi la même figure, mais avec deux courbes bien distinctes, comme 
 
 *Courbe rouge : essai en (n-1) à droite; courbe bleue : essai en (n-1) à gauche de l'orientation de référence*
 
-On note ici que le seuil n'est pas le même en fonction de l'orientation en (n-1) : quand l'essai en (n-1) est à droite, le seuil se décale vers la gauche (ici : 222.5), et le sujet va ainsi avoir tendance à considérer que l'orientation en (n) est à droite alors qu'elle est, par exemple, très légèrement à gauche de l'ancre de référence.
+On note ici que le seuil n'est pas le même en fonction de l'orientation en (n-1) : quand l'essai en (n-1) est à droite, le seuil se décale vers la gauche (ici : 222.5), et le sujet va ainsi avoir tendance à considérer que l'orientation en (n) est à droite alors qu'elle est, par exemple, très légèrement à gauche de l'ancre de référence. Et inversement pour les essais en (n-1) à gauche.
 
-Pour autant, si les résultats de ce sujet-ci sont particulièrement clairs, il faut noter que l'effet est parfois plus léger - si ce n'est inexistant - pour certains sujets, voire inverse aux résultats attendus. Ainsi, faire la moyenne des résultats sur tous les sujets risquerait de neutraliser les effets de dépendance sérielle à cause de cette variabilité inter-sujets.
+Pour autant, si les résultats de ce sujet-ci sont particulièrement marqués, il faut noter que l'effet est parfois plus léger - si ce n'est inexistant - pour certains sujets, voire inverse aux résultats attendus. Ainsi, faire la moyenne des résultats sur tous les sujets risquerait de neutraliser les effets de dépendance sérielle à cause de cette variabilité inter-sujets.
 
-4. Discussion
+### L'image de classification et son interprétation
 
-5. Ce que j'ai appris de ce stage
+#### Exemple d'images obtenues
+
+#### Corrélation avec les images "contrôles" calculées à partir de l'essai en (n)
+
+#### Analyse spectrale, analyse de la variabilité ???
+
+## Discussion
+
+## Ce que j'ai appris de ce stage
