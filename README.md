@@ -103,6 +103,8 @@ Le seuil moyen (i.e. l'orientation pour laquelle il y avait 50% de réponses "ga
 
 On voit donc ici que les sujets réalisent bien en moyenne la tâche de discrimination demandée.
 
+### 
+
 4. Discussion
 
 5. Ce que j'ai appris de ce stage
