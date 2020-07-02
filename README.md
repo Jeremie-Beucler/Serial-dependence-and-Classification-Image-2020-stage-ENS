@@ -89,7 +89,19 @@ L'image de classification était obtenue en relevant toutes les orientations en 
 Ainsi, nous adaptions la technique de l'image de classification en remplaçant le bruit visuel par les orientations vues en (n-1); le phénomène de dépendance sériel était donc ici la source de "*bruit*" qui influençait les réponses du sujet.
 
 
-3. Resultats
+## Resultats
+
+### Sanity check
+
+Afin de s'assurer que la tâche était correctement effectuée par les sujets, il fallait modéliser leurs réponses en fonction de l'orientation à l'essai (n) grâce à une fonction logistique sigmoïde.
+
+![sanity_check](sanity_check.png)
+
+*Modélisation de la réponse des sujets en fonction de l'orientation à l'essai (n) sous Matlab*
+
+Le seuil moyen (i.e. l'orientation pour laquelle il y avait 50% de réponses "gauche", et 50% de réponses "droite") était de 224.4°, ce qui est relativement proche du seuil objectif de 225° (orientation de référence).
+
+On voit donc ici que les sujets réalisent bien en moyenne la tâche de discrimination demandée.
 
 4. Discussion
 
