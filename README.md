@@ -141,6 +141,8 @@ Il est tout d'abord possible de calculer la corrélation de ces images de classi
 
 *Exemple d'image de classification "contrôle" pour les orientations vues en (n) avec une réponse gauche en (n)*
 
+On remarque que l'image de classification "contrôle" est plus marquée et plus nette que l'image de classification prenant en compte les essais vus en (n-1); cela est attendu dans la mesure où l'effet du stimulus actuel est bien plus pregnant que le phénomène de dépendance sérielle.
+
 Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image de classification calculée à partir des Gabors à l'essai (n-1) pour les réponses gauches est positivement corrèlée avec l'image contrôle des Gabors à l'essai (n) pour les réponses gauches, et négativement pour l'image calculée à partir des Gabors à l'essai (n) pour les réponses droites. On s'attend donc à une corrélation positive pour les mêmes réponses : (n-1)/gauche et (n)/gauche, ou encore (n-1
 )/droite et (n)/droite, et à une corrélation négative pour les réponses différentes : (n-1)/gauche et (n)/droite, ou encore (n-1
 )/droite et (n)/gauche.
