@@ -6,7 +6,6 @@ Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans 
 
 Malheureusement, à cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé quasiment entièrement à distance, par courriels ou visioconférences. De même, l'expérience a dû être passée en ligne par les sujets.
 
-- [x]  Pour passer l'expérience en ligne (ou pour simplement voir les instructions), utiliser ce lien : **tstbl.co/832-291**
 
 ## Sommaire
 
@@ -47,6 +46,8 @@ L'image de classification est une technique comportementale employée en psychop
 L'intérêt de cette technique, et ce qui la rend si intéressante, est **sa nature visuelle et sa dimension exploratoire** : "*Is it the visual nature of the classification image, or is it its exploratory nature that resembles a sort of archeology of perceptual processes » that makes it interesting ?*" (Eckstein & Ahumada, 2002).
 
 ### Application de la technique de l'image de classification à la dépendance sérielle
+
+- [x]  Pour passer l'expérience en ligne (ou pour simplement voir les instructions), utiliser ce lien : **tstbl.co/832-291**
 
 La tâche était simple : les sujets mémorisaient un *Gabor patch* dans une certaine orientation au tout début de l'expérience. Ensuite, après un bref entraînement, ils devaient indiquer si le stimulus qui s'affichait devant eux était orienté à droite ou à gauche du Gabor de référence.
 
