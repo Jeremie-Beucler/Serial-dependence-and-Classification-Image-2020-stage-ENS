@@ -2,7 +2,7 @@
 
 ## Le cadre du stage
 
-Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans le cadre du DENS, sous la tutelle de Thérèse Collins, à l'*INCC* (Integrative Neuroscience and Cognition Center, Université de Paris). La durée de travail était officiellement d'un jour plein par semaine.
+Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans le cadre du DENS, sous la tutelle de Thérèse Collins, à l'**INCC** (Integrative Neuroscience and Cognition Center, Université de Paris). La durée de travail était officiellement d'un jour plein par semaine.
 
 Malheureusement, à cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé preque entièrement à distance, par courriels ou visioconférences. De même, l'expérience a dû être passée en ligne par les sujets.
 
@@ -163,7 +163,7 @@ Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image d
 - une corrélation positive moyenne de **r = 0.17** pour les images de classification portant sur les mêmes réponses
 - une corrélation négative moyenne de **r = -0.17** pour les images de classification portant sur des réponses différentes
 
-Le fait que ces corrélations soient relativement faibles s'explique par le fait que les images de classification obtenues à partir des orientations en (n-1) sont plus "*bruitées*" que les images de classification contrôle, dans la mesure où elles dépendent uniquement du phénomène de dépendance sérielle.
+Le fait que ces corrélations soient relativement faibles s'explique par le fait que les images de classification obtenues à partir des orientations en (n-1) sont plus "*bruitées*", moins lisibles, que les images de classification contrôle, dans la mesure où elles dépendent uniquement du phénomène de dépendance sérielle et non pas du stimulus vu à l'essai (n).
 
 #### (Analyse spectrale et analyse de la variabilité)/## Discussion
 
