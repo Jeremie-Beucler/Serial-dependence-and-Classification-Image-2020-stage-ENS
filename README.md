@@ -2,9 +2,9 @@
 
 ## Le cadre du stage
 
-Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans le cadre du DENS, sous la tutelle de Thérèse Collins, à l'*INCC* (Integrative Neuroscience and Cognition Center, Université de Paris). Il n'était pas rémunéré et les horaires étaient d'un jour plein par semaine.
+Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans le cadre du DENS, sous la tutelle de Thérèse Collins, à l'*INCC* (Integrative Neuroscience and Cognition Center, Université de Paris). La durée de travail était officiellement d'un jour plein par semaine.
 
-Malheureusement, à cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé quasiment entièrement à distance, par courriels ou visioconférences. De même, l'expérience a dû être passée en ligne par les sujets.
+Malheureusement, à cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé preque entièrement à distance, par courriels ou visioconférences. De même, l'expérience a dû être passée en ligne par les sujets.
 
 
 ## Sommaire
@@ -23,7 +23,7 @@ Malheureusement, à cause de la situation sanitaire et du confinement qui en a d
 
 ***
 
-Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets sur la "*dépendance sérielle*" dans la perception visuelle. **La dépendance sérielle consiste en l'intégration temporelle d'informations telles que l'orientation ou la numérosité.** Elle est typiquement mise en évidence dans des expériences exigeant des sujets de juger de l'orientation de barres, où l'on constate que la réponse en *n* des sujets est influencée par la réponse en (n-1), (n-2), et ce jusqu'à environ 15 secondes dans une zone bien délimitée du champ visuel appelée *"continuity field"*, couvrant environ 15 degrés d'angle visuel (Fischer & Whitney, 2014).
+Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets sur la "*dépendance sérielle*" dans la perception visuelle. **La dépendance sérielle consiste en l'intégration temporelle d'informations telles que l'orientation ou la numérosité.** Elle est typiquement mise en évidence dans des expériences de jugement d'orientation de barres, où l'on constate que la réponse à l'essai (n) des sujets est influencée par le stimulus vu en (n-1), (n-2), et ce jusqu'à environ 15 secondes dans une zone bien délimitée du champ visuel appelée *"continuity field"*, couvrant environ 15 degrés d'angle visuel (Fischer & Whitney, 2014). Ainsi, ce que l'on a vu récemment influence ce qu'on voit actuellement.
 
 ![Figure_F_and_W](figure_fischer.jpg)
 
@@ -37,7 +37,7 @@ Ce phénomène perceptif de bas-niveau, qui ne s'explique pas par des effets de 
 
 ***
 
-L'image de classification est une technique comportementale employée en psychophysique. Dans sa forme traditionnelle, elle consiste à ajouter du "*bruit visuel*", c'est-à-dire des pixels distribués aléatoirement, aux stimuli présentés aux sujets. Ces derniers réalisent par exemple une tâche de détection classique, comme dire si le chiffre 3 est présent. Avec suffisamment d'essais, il est possible de faire la moyenne des pixels ajoutés aux stimuli dans l'expérience afin d'en tirer une image de classification. Par exemple, si je fais la moyenne des pixels de tous les essais où le sujet a dit que le chiffre 3 était présent alors qu'il ne l'était pas (fausse alarme), j'obtiendrai ce qui en moyenne a poussé le sujet à répondre de cette manière, et donc l'équivalent du **"*template*" interne** du chiffre 3 du sujet. Cette image peut être rendu encore plus claire si je lui soustrais son opposé, son "*négatif*" photographique (pour filer l'exemple, toutes les fois où le sujet a dit que le chiffre 3 était absent alors qu'il était présent). Cette technique, d'abord cantonnée au champ de la psychophysique, est maintenant employée dans d'autres champs de la psychologie.
+L'image de classification est une technique comportementale employée en psychophysique. Dans sa forme traditionnelle, elle consiste à ajouter du "*bruit visuel*", c'est-à-dire des pixels distribués aléatoirement, aux stimuli présentés aux sujets. Ces derniers réalisent par exemple une tâche de détection classique, comme dire si le chiffre 3 est présent. Avec suffisamment d'essais, il est possible de faire la moyenne des pixels ajoutés aux stimuli dans l'expérience afin d'en tirer une image de classification. Par exemple, si je fais la moyenne des pixels de tous les essais où le sujet a dit que le chiffre 3 était présent alors qu'il ne l'était pas (fausse alarme), j'obtiendrai ce qui en moyenne a poussé le sujet à répondre de cette manière, et donc l'équivalent du **"*template*" interne** du chiffre 3 du sujet. Cette image peut être rendu encore plus claire si je lui soustrais son opposé, son "*négatif*" photographique (pour filer l'exemple, toutes les fois où le sujet a dit que le chiffre 3 était absent alors qu'il était présent). Cette technique, d'abord cantonnée au champ de la psychophysique, est maintenant employée dans d'autres champs de la psychologie, comme le montre l'image ci-dessous.
 
 ![Figure_female_social_psy](CI_soc.png)
 
@@ -53,7 +53,7 @@ La tâche était simple : les sujets mémorisaient un *Gabor patch* dans une cer
 
 L'idée était donc d'**étudier la dépendance sérielle, dans une tâche de jugement d'orientation, via la technique de l'image de classification**. Cela permettrait de savoir ce qui, dans les stimuli précédant le stimulus actuelle, influençait la réponse actuelle du sujet. Autrement dit, de savoir quels aspects du stimulus intervenaient dans la dépendance sérielle.
 
-Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux stimuli. Cela se justifiait dans la mesure où nous ne  voulions pas bruiter les données, et où justement nous étions intéressés par les stimuli précédant le stimulus actuel. Dès lors, comment obtenir l'image de classification ? En faisant la moyenne des pixels des stimuli en (n-1) vus par le sujet, et ayant influencé sa réponse en (n) via le phénomène de la dépendance sérielle. 
+Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux stimuli. Cela se justifiait dans la mesure où nous ne  voulions pas bruiter les données, et où justement nous étions intéressés par les stimuli précédant le stimulus actuel. Dès lors, comment obtenir l'image de classification souhiatée ? En faisant la moyenne des pixels des stimuli vus par le sujet en (n-1) , et ayant influencé sa réponse en (n) via le phénomène de la dépendance sérielle. 
 
 ![processus](processus_CI.png)
 
@@ -73,7 +73,7 @@ Dix sujets ont passé l'expérience (n = 10), dont 4 garçons et 6 filles d'un �
 
 ### Stimuli
 
-Les *Gabor patchs* ont été créés sur Matlab grâce à la fonction "*CreateProceduralGabor*" de *Psychtoolbox* (Kleiner, Brainard & Peli, 2007). Ils avaient une fréquence spatiale de 0.03 cycles par pixel (?) et un écart-type de 32° (?).
+Les *Gabor patchs* ont été créés sur Matlab grâce à la fonction "*CreateProceduralGabor*" de *Psychtoolbox* (Kleiner, Brainard & Peli, 2007). Ils avaient une fréquence spatiale de 0.03 cycles par pixel (?) et un écart-type de 32° (?). /à confirmer/
 
 ![gabor](example_gabor.png)
 
@@ -95,7 +95,7 @@ Chaque sujet avait 14 essais d'entraînement au début de l'expérience, dont 8 
 
 ### Calcul de l'image de classification
 
-L'image de classification était obtenue en relevant toutes les orientations en (n-1) - soit les orientations des Gabors vus il y a environ 2 secondes par le sujet - pour toutes les réponses "Gauche" à l'essai (n), de même que pour toutes les réponses "Droite" à l'essai (n). Cela nous donnait deux vecteurs (les orientations des Gabors en n-1 pour les réponses gauches, de même pour les réponses droites). A partir de ces deux vecteurs, on pouvait obtenir deux images en calculant la moyenne, pixel par pixel, des Gabors contenus dans chaque vecteur. L'image de classification était alors calculée en soustrayant l'image moyenne gauche à l'image moyenne droite, afin d'obtenir une image encore plus définie, dans la mesure où ces deux images sont censées êtres en quelque sorte les "*négatifs*" l'une de l'autre.
+L'image de classification était obtenue en relevant toutes les orientations en (n-1) - soit les orientations des Gabors vus il y a environ 2 secondes par le sujet - pour toutes les réponses "Gauche" à l'essai (n), de même que pour toutes les réponses "Droite" à l'essai (n). Cela nous donnait deux listes (les orientations des Gabors en n-1 pour les réponses gauches, de même pour les réponses droites). A partir de ces deux vecteurs, on pouvait obtenir deux images en calculant la moyenne, pixel par pixel, des Gabors contenus dans chaque vecteur. L'image de classification était alors calculée en soustrayant l'image moyenne gauche à l'image moyenne droite (et inversement), afin d'obtenir une image encore plus définie, dans la mesure où ces deux images sont censées êtres en quelque sorte les "*négatifs*" l'une de l'autre.
 
 ![murray](murray.png)
 
@@ -158,18 +158,14 @@ Il est tout d'abord possible de calculer la corrélation de ces images de classi
 
 On remarque que l'image de classification "contrôle" est plus marquée et plus nette que l'image de classification prenant en compte les essais vus en (n-1); cela est attendu dans la mesure où l'effet du stimulus actuel est bien plus pregnant que le phénomène de dépendance sérielle.
 
-Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image de classification calculée à partir des Gabors à l'essai (n-1) pour les réponses gauches est positivement corrèlée avec l'image contrôle des Gabors à l'essai (n) pour les réponses gauches, et négativement pour l'image calculée à partir des Gabors à l'essai (n) pour les réponses droites. 
-
-On s'attend donc à une corrélation positive pour les images calculées en (n) et en (n-1) pour les mêmes réponses en (n), et négative pour des réponses différentes en (n). C'est en effet le résultat qu'on obtient en faisant la corrélation des images de classification grâce à la fonction "*corr2*" de l'"*Image Processing Toolbox* de Matlab qui permet de calculer la corrélation entre deux images 2D :
+Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image de classification calculée à partir des Gabors à l'essai (n-1) pour les réponses gauches est positivement corrèlée avec l'image contrôle des Gabors à l'essai (n) pour les réponses gauches, et négativement pour l'image calculée à partir des Gabors à l'essai (n) pour les réponses droites. On s'attend donc à une corrélation positive pour les images calculées en (n) et en (n-1) pour les mêmes réponses en (n), et négative pour des réponses différentes en (n). C'est en effet le résultat qu'on obtient en faisant la corrélation des images de classification grâce à la fonction "*corr2*" de l'"*Image Processing Toolbox* de Matlab qui permet de calculer la corrélation entre deux images 2D :
 
 - une corrélation positive moyenne de **r = 0.17** pour les images de classification portant sur les mêmes réponses
 - une corrélation négative moyenne de **r = -0.17** pour les images de classification portant sur des réponses différentes
 
 Le fait que ces corrélations soient relativement faibles s'explique par le fait que les images de classification obtenues à partir des orientations en (n-1) sont plus "*bruitées*" que les images de classification contrôle, dans la mesure où elles dépendent uniquement du phénomène de dépendance sérielle.
 
-#### (Analyse spectrale et analyse de la variabilité)
-
-## Discussion
+#### (Analyse spectrale et analyse de la variabilité)/## Discussion
 
 ## <a name="bilan"></a>Bilan du stage
 
@@ -187,7 +183,7 @@ Le traitement des données a été pour moi la partie la plus difficile du stage
 
 ### Programmation
 
-J'avais déjà une petite expérience de programmation, dans la mesure où j'avais suivi un cours d'introduction à la programmation à l'ENS, et le cours de programmation en sciences cognitives de Christophe Pallier au Cogmaster. De fait, je n'ai pas l'impression d'avoir rencontré de difficultés majeures dans la création de l'expérience, qui restait relativement simple, de même que le calcul de l'image de classification.
+J'avais déjà une expérience en programmation, dans la mesure où j'avais suivi un cours d'introduction à la programmation à l'ENS, et le cours de programmation en sciences cognitives du Cogmaster. De fait, je n'ai pas l'impression d'avoir rencontré de difficultés majeures dans la création de l'expérience, qui restait relativement simple, de même que le calcul de l'image de classification.
 
 Pour autant, ce stage m'a permis de découvrir le langage Matlab, que j'ai pu commencer à apprendre notamment grâce au livre de Fitzpatrick & Ledeczi (2014) intitulé "*Computer Programming with Matlab*". De même, j'ai dû me familiariser avec le module "*Psychtoolbox"* (Kleiner, Brainard & Peli, 2007) pour programmer l'expérience au départ, lorsque la passation était encore censée se dérouler au laboratoire.
 
@@ -195,11 +191,11 @@ Enfin, à cause du confinement, il a fallu reprogrammer l'expérience afin de la
 
 ### Esprit scientifique
 
-Par ailleurs, ce stage m'a permis de développer mon esprit scientifique. Tout d'abord, j'ai pu découvrir ou réemployer des outils très utiles pour se rapproche de l'"*open science*", comme le site "*testable.org*" (Rezlescu, 2015) qui permet de faire passer des expérience en ligne, ou la plateforme Github qui permet de partager par exemple le code que l'on a employé pour programmer l'expérience oyu encore les données recueillies auprès des participants.
+Par ailleurs, ce stage m'a permis de développer mon esprit scientifique. Tout d'abord, j'ai pu découvrir ou réemployer des outils très utiles pour se rapproche de l'"*open science*", comme le site "*testable.org*" (Rezlescu, 2015) qui permet de faire passer des expérience en ligne, ou la plateforme Github qui permet de partager par exemple le code que l'on a employé pour programmer l'expérience ou encore les données recueillies auprès des participants.
 
-Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Cela pouvait parfois s'avérer dangereux, dans la mesure où cela a pu créer chez moi une forme de passivité, émanant sans doute aussi de la situation de confinement. Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout faire plus de propositions d'idées pertinentes pour l'expérience.
+Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Cela pouvait parfois s'avérer risqué, dans la mesure où cela a pu créer chez moi une forme de passivité, émanant sans doute aussi de la situation de confinement. Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout essayer de proposer plus d'idées pour l'expérience.
 
-Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas présente chez tous les sujets.
+Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas retrouvée chez tous les sujets.
 
 ## <a name="bibliographie"></a>Bibliographie
 
