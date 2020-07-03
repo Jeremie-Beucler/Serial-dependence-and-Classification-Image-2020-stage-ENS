@@ -156,7 +156,7 @@ Le fait que ces corrélations soient relativement faibles s'explique par le fait
 
 ## Discussion
 
-## Ce que j'ai appris de ce stage
+## Bilan du stage
 
 ### Expertise théorique
 - dep ser
