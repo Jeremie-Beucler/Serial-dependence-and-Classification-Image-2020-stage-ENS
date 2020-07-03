@@ -6,7 +6,15 @@ Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans 
 
 Malheureusement, à cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé quasiment entièrement à distance, par courriels ou visioconférences.
 
-## Le projet de recherche : dépendance sérielle et image de classification
+## Sommaire
+
+- [Le projet de recherche : dépendance sérielle et image de classification](#projet)
+- [Méthode](#methode)
+- [Résultats](#resultats)
+- [Bilan du stage](#bilan)
+- [Bibliographie](#bibliographie)
+
+## <a name="projet"></a>Le projet de recherche : dépendance sérielle et image de classification
 
 ### La dépendance sérielle
 
@@ -51,7 +59,7 @@ Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux sti
 
 La démarche était alors doublement exploratoire : non seulement nous ne savions pas quelle image nous allions obtenir, mais de surcroît, **cette image de classification ne correspondait pas à la technique classique**, consistant à faire la moyenne du bruit visuel ajouté aux stimuli présentés pour telle réponse.
 
-## Méthode
+## <a name="methode"></a>Méthode
 
 ### Participants
 
@@ -93,7 +101,7 @@ L'image de classification était obtenue en relevant toutes les orientations en 
 Ainsi, **nous adaptions la technique de l'image de classification en remplaçant le bruit visuel par les orientations vues en (n-1)**; le phénomène de dépendance sériel était donc ici la source de "*bruit*" qui influençait les réponses du sujet.
 
 
-## Resultats
+## <a name="resultats"></a>Resultats
 
 ### Sanity check
 
@@ -160,7 +168,7 @@ Le fait que ces corrélations soient relativement faibles s'explique par le fait
 
 ## Discussion
 
-## Bilan du stage
+## <a name="bilan"></a>Bilan du stage
 
 ### Expertise théorique
 
@@ -190,7 +198,7 @@ Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une 
 
 Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas présente chez tous les sujets.
 
-## Bibliographie
+## <a name="bibliographie"></a>Bibliographie
 
 - Brinkman, L., Goffin, S., van de Schoot, R., van Haren, N. E., Dotsch, R., & Aarts, H. (2019). Quantifying the informational value of classification images. Behavior research methods, 51(5), 2059-2073.
 - Eckstein, M. P., & Ahumada, A. J. (2002). Classification images: A tool to analyze visual strategies. Journal of Vision, 2(1), i-i.
