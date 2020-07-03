@@ -163,27 +163,33 @@ Le fait que ces corrélations soient relativement faibles s'explique par le fait
 ## Bilan du stage
 
 ### Expertise théorique
-- dep ser
-- image class : transversal
-- psychophysi : fonction sigm ...
 
-=> articles : nota techniques employées par les autres ...
+Avant de commencer ce stage, je ne connaissais pas le phénomène de la dépendance sérielle, remis au goût du jour par l'article de Fischer & Whitney (2014). Il est toujours intéressant de découvrir des phénomènes perceptifs aussi basiques, notamment parce que ceux-ci peuvent jouer un rôle dans la plupart des expériences de psychologie, sans que les expérimentateurs s'en rendent compte.
+
+Je connaissais la technique de l'image de classification, pour l'avoir étudiée en cours de méthodologie à l'ENS et pour avoir lu quelques articles l'utilisant. Mais, pour autant, je n'en comprenais pas la méthode de calcul, et n'avais pas réalisé à quel point cette technique peut être employé dans tous les champs de la psychologie, notamment en psychologie sociale.
+
+Enfin, ce stage m'a permis de revoir quelques concepts que je ne maîtrisais pas forcément, comme par exemple l'utilisation de la fonction logistique sigmoïde pour modéliser la fonction psychométrique.
 
 ### Esprit scientifique
-- partage données / science ouverte (nota testable)
-- collaboration : plus compliqué à cause du confinement, à distance; ne pas hésiter à poser plus de questions !
-- problème : force du biais de confirmation
 
-### Programmation
+Par ailleurs, ce stage m'a permis de développer mon esprit scientifique. Tout d'abord, j'ai pu découvrir ou réemployer des outils très utiles pour se rapproche de l'"*open science*", comme le site "*testable.org*" (Rezlescu, 2015) qui permet de faire passer des expérience en ligne, ou la plateforme Github qui permet de partager par exemple le code que l'on a employé pour programmer l'expérience oyu encore les données recueillies auprès des participants.
 
-- Matlab (livre)
-=> matrices ...
-- psychtoolbox (un peu comme l'autre librairie)
-- testable
+Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Cela pouvait parfois s'avérer dangereux, dans la mesure où cela a pu créer chez moi une forme de passivité, émanant sans doute aussi de la situation de confinement. Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout faire plus de propositions d'idées pertinentes pour l'expérience.
+
+Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas présente chez tous les sujets.
 
 ### Statistiques et exploitation des données
 
-- point noir : + compliqué pour moi, moins à l'aise
+Le traitement des données a été pour moi la partie la plus difficile du stage, celle dans laquelle j'ai eu l'impression d'avoir le moins de choses à apporter. En effet, je ne suis pas encore très avancé en statistiques, dans la mesure où je n'ai suivi que les cours de L1 et de L2, et que de surcroît la majeure partie du traitement statistique consistait à analyser une image, ce que je n'avais jamais fait. J'ai donc conscience qu'il me faudra combler cette lacune, notamment en prenant en main des logiciels tels que R et en m'habituant à manipuler les données de façon efficace.
+
+### Programmation
+
+J'avais déjà une petite expérience de programmation, dans la mesure où j'avais suivi un cours d'introduction à la programmation à l'ENS, et le cours de programmation en sciences cognitives de Christophe Pallier au Cogmaster. De fait, je n'ai pas l'impression d'avoir rencontré de difficultés majeures dans la création de l'expérience, qui restait relativement simple, de même que le calcul de l'image de classification.
+
+Pour autant, ce stage m'a permis de découvrir le langage Matlab, que j'ai pu commencer à apprendre notamment grâce au livre de Fitzpatrick & Ledeczi (2014) intitulé "*Computer Programming with Matlab*". De même, j'ai dû me familiariser avec le module "*Psychtoolbox"* (Kleiner, Brainard & Peli, 2007) pour programmer l'expérience au départ, lorsque la passation était encore censée se dérouler au laboratoire.
+
+Enfin, à cause du confinement, il a fallu reprogrammer l'expérience afin de la mettre en ligne sur la plateforme "*testable.org*" (Rezlescu, 2015), dont la prise en main est assez intuitive : il s'agit de coder l'expérience grâce à un fichier *.csv* où la plupart des fonctions utiles sont déjà précodées (e.g. la croix de fixation, l'enregistrement des temps de réactions, etc.).
+
 
 ## Bibliographie
 
