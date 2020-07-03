@@ -6,7 +6,7 @@ Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans 
 
 Malheureusement, à cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé quasiment entièrement à distance, par courriels ou visioconférences. De même, l'expérience a dû être passée en ligne par les sujets.
 
-- [x]  **[Passer l'expérience en ligne - 20 minutes](tstbl.co/832-291)**;
+- [x]  Pour passer l'expérience en ligne, utiliser ce lien : **tstbl.co/832-291**
 
 ## Sommaire
 
