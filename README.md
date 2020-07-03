@@ -181,4 +181,8 @@ Le fait que ces corrélations soient relativement faibles s'explique par le fait
 
 - point noir : + compliqué pour moi, moins à l'aise
 
+## Bibliographie
+
+(à faire avec google scholar)
+
 
