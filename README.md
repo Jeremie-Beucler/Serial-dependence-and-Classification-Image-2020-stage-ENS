@@ -197,6 +197,10 @@ Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une 
 
 Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas retrouvée chez tous les sujets.
 
+### Puisqu'il faut conclure ...
+
+En somme, cette première expérience de recherche aura été enrichissante sur tous les plans, et m'aura donné envie de continuer dans cette voie qu'est la recherche en psychologie.
+
 ## <a name="bibliographie"></a>Bibliographie
 
 - Brinkman, L., Goffin, S., van de Schoot, R., van Haren, N. E., Dotsch, R., & Aarts, H. (2019). Quantifying the informational value of classification images. Behavior research methods, 51(5), 2059-2073.
