@@ -170,14 +170,6 @@ Je connaissais la technique de l'image de classification, pour l'avoir étudiée
 
 Enfin, ce stage m'a permis de revoir quelques concepts que je ne maîtrisais pas forcément, comme par exemple l'utilisation de la fonction logistique sigmoïde pour modéliser la fonction psychométrique.
 
-### Esprit scientifique
-
-Par ailleurs, ce stage m'a permis de développer mon esprit scientifique. Tout d'abord, j'ai pu découvrir ou réemployer des outils très utiles pour se rapproche de l'"*open science*", comme le site "*testable.org*" (Rezlescu, 2015) qui permet de faire passer des expérience en ligne, ou la plateforme Github qui permet de partager par exemple le code que l'on a employé pour programmer l'expérience oyu encore les données recueillies auprès des participants.
-
-Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Cela pouvait parfois s'avérer dangereux, dans la mesure où cela a pu créer chez moi une forme de passivité, émanant sans doute aussi de la situation de confinement. Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout faire plus de propositions d'idées pertinentes pour l'expérience.
-
-Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas présente chez tous les sujets.
-
 ### Statistiques et exploitation des données
 
 Le traitement des données a été pour moi la partie la plus difficile du stage, celle dans laquelle j'ai eu l'impression d'avoir le moins de choses à apporter. En effet, je ne suis pas encore très avancé en statistiques, dans la mesure où je n'ai suivi que les cours de L1 et de L2, et que de surcroît la majeure partie du traitement statistique consistait à analyser une image, ce que je n'avais jamais fait. J'ai donc conscience qu'il me faudra combler cette lacune, notamment en prenant en main des logiciels tels que R et en m'habituant à manipuler les données de façon efficace.
@@ -190,6 +182,13 @@ Pour autant, ce stage m'a permis de découvrir le langage Matlab, que j'ai pu co
 
 Enfin, à cause du confinement, il a fallu reprogrammer l'expérience afin de la mettre en ligne sur la plateforme "*testable.org*" (Rezlescu, 2015), dont la prise en main est assez intuitive : il s'agit de coder l'expérience grâce à un fichier *.csv* où la plupart des fonctions utiles sont déjà précodées (e.g. la croix de fixation, l'enregistrement des temps de réactions, etc.).
 
+### Esprit scientifique
+
+Par ailleurs, ce stage m'a permis de développer mon esprit scientifique. Tout d'abord, j'ai pu découvrir ou réemployer des outils très utiles pour se rapproche de l'"*open science*", comme le site "*testable.org*" (Rezlescu, 2015) qui permet de faire passer des expérience en ligne, ou la plateforme Github qui permet de partager par exemple le code que l'on a employé pour programmer l'expérience oyu encore les données recueillies auprès des participants.
+
+Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Cela pouvait parfois s'avérer dangereux, dans la mesure où cela a pu créer chez moi une forme de passivité, émanant sans doute aussi de la situation de confinement. Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout faire plus de propositions d'idées pertinentes pour l'expérience.
+
+Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas présente chez tous les sujets.
 
 ## Bibliographie
 
