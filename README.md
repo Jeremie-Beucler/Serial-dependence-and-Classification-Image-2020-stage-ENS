@@ -119,7 +119,17 @@ Pour autant, si les résultats de ce sujet-ci sont particulièrement marqués, i
 
 ### L'image de classification et son interprétation
 
-#### Exemple d'images obtenues
+#### Exemple d'images de classification obtenue
+
+Voici un exemple d'images de classification obtenues :
+
+![left](3935_CI_left.jpg)
+
+*Image de classification pour les essais en (n-1) à gauche*
+
+![right](3935_CI_right.jpg)
+
+*Image de classification pour les essais en (n-1) à droite*
 
 #### Corrélation avec les images "contrôles" calculées à partir de l'essai en (n)
 
