@@ -14,7 +14,7 @@ Malheureusement, à cause de la situation sanitaire et du confinement qui en a d
 
 ***
 
-Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets sur la "*dépendance sérielle*" dans la perception visuelle. **La dépendance sérielle consiste en l'intégration temporelle d'informations telles que l'orientation ou la numérosité.** Elle est typiquement mise en évidence dans des expériences exigeant des sujets de juger de l'orientation de barres, où l'on constate que la réponse en *n* des sujets est influencée par la réponse en (n-1), (n-2), et ce jusqu'à environ 15 secondes dans une zone bien délimitée du champ visuel appelée *"continuity field"*, couvrant environ 15 degrés d'angle visuel ((Fischer & Whitney, 2014).
+Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets sur la "*dépendance sérielle*" dans la perception visuelle. **La dépendance sérielle consiste en l'intégration temporelle d'informations telles que l'orientation ou la numérosité.** Elle est typiquement mise en évidence dans des expériences exigeant des sujets de juger de l'orientation de barres, où l'on constate que la réponse en *n* des sujets est influencée par la réponse en (n-1), (n-2), et ce jusqu'à environ 15 secondes dans une zone bien délimitée du champ visuel appelée *"continuity field"*, couvrant environ 15 degrés d'angle visuel (Fischer & Whitney, 2014).
 
 ![Figure_F_and_W](figure_fischer.jpg)
 
@@ -192,6 +192,12 @@ Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothè
 
 ## Bibliographie
 
-(à faire avec google scholar)
-
-
+- Brinkman, L., Goffin, S., van de Schoot, R., van Haren, N. E., Dotsch, R., & Aarts, H. (2019). Quantifying the informational value of classification images. Behavior research methods, 51(5), 2059-2073.
+- Eckstein, M. P., & Ahumada, A. J. (2002). Classification images: A tool to analyze visual strategies. Journal of Vision, 2(1), i-i.
+- Fischer, J., & Whitney, D. (2014). Serial dependence in visual perception. Nature neuroscience, 17(5), 738-743.
+- Fitzpatrick, J. M., & Ledeczi, A. (2015). Computer Programming with MATLAB. J. Michael Fitzpatrick Ákos Lédeczi.
+- Kleiner, M., Brainard, D., & Pelli, D. (2007). What's new in Psychtoolbox-3?.
+- Liberman, A., Fischer, J., & Whitney, D. (2014). Serial dependence in the perception of faces. Current biology, 24(21), 2569-2574.
+- Murray, R. F. (2011). Classification images: A review. Journal of vision, 11(5), 2-2.
+- Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of general psychology, 2(2), 175-220.
+- Rezlescu, C. (2015). TESTABLE-The web-based platform for creating, running and sharing behavioural experiments. In Association for Psychological Science Teaching Institute Conference, New York, 21--24 May.
