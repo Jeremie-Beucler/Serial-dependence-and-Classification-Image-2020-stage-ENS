@@ -12,31 +12,31 @@ Malheureusement, à cause de la situation sanitaire et du confinement qui en a d
 
 > "*The perception of low-level stimulus features such as orientation and numerosity is systematically biased (i.e., pulled) toward visual input from the recent past. The spatial region over which current orientations are pulled by previous orientations is known as the continuity field, which is temporally tuned for the past 10–15 s*" (Liberman, Fischer & Whitney, 2014)
 
-Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets sur la "*dépendance sérielle*" dans la perception visuelle. La dépendance sérielle consiste en l'intégration temporelle d'informations telles que l'orientation ou la numérosité. Elle est typiquement mise en évidence dans des expériences exigeant des sujets de juger de l'orientation de barres, où l'on constate que la réponse en *n* des sujets est influencée par la réponse en (n-1), (n-2), et ce jusqu'à environ 15 secondes dans une zone bien délimitée du champ visuel appelée *"continuity field"*, couvrant environ 15 degrés d'angle visuel ((Fischer & Whitney, 2014).
+Thérèse Collins, qui était ma tutrice de stage, travaille entre autres sujets sur la "*dépendance sérielle*" dans la perception visuelle. **La dépendance sérielle consiste en l'intégration temporelle d'informations telles que l'orientation ou la numérosité.** Elle est typiquement mise en évidence dans des expériences exigeant des sujets de juger de l'orientation de barres, où l'on constate que la réponse en *n* des sujets est influencée par la réponse en (n-1), (n-2), et ce jusqu'à environ 15 secondes dans une zone bien délimitée du champ visuel appelée *"continuity field"*, couvrant environ 15 degrés d'angle visuel ((Fischer & Whitney, 2014).
 
 ![Figure_F_and_W](figure_fischer.jpg)
 
 *Résultats tirés de l'article de Fischer et Whitney (2014) sur la dépendance sérielle : l'essai précédent influence l'essai actuel*
 
-Ce phénomène perceptif de bas-niveau, qui ne s'explique pas par des effets de critères de décision, permettrait ainsi d'assurer une stabilité perceptive. Il constituerait un a priori perceptif en faveur d'un monde stable malgré les informations perceptives perpétuellement changeantes (e.g. la luminosité changeant constamment à cause des nuages passant devant le soleil), au même titre que notre système perceptif assure la constance de taille, de couleur ...
+Ce phénomène perceptif de bas-niveau, qui ne s'explique pas par des effets de critères de décision, permettrait ainsi de contribuer à la **stabilité perceptive**. Il constituerait un a priori perceptif en faveur d'un monde stable malgré les informations perceptives perpétuellement changeantes (e.g. la luminosité changeant constamment à cause des nuages passant devant le soleil), au même titre que notre système perceptif assure la constance de taille, de couleur ...
 
 ### L'image de classification
 
 > "*The central concept of the technique is the correlation of observer decisions with noisy stimulus features over sets of stimuli. From the correlation of the features with the decisions and the inter-correlations among the features, the investigator can then estimate how the observer is weighting the stimulus features to reach a decision.*" (Eckstein & Ahumada, 2002)
 
-L'image de classification est une technique comportementale employée en psychophysique. Dans sa forme traditionnelle, elle consiste à ajouter du "*bruit visuel*", c'est-à-dire des pixels distribués aléatoirement, aux stimuli présentés aux sujets. Ces derniers réalisent par exemple une tâche de détection classique, comme dire si le chiffre 3 est présent. Avec suffisamment d'essais, il est possible de faire la moyenne des pixels ajoutés aux stimuli dans l'expérience afin d'en tirer une image de classification. Par exemple, si je fais la moyenne des pixels de tous les essais où le sujet a dit que le chiffre 3 était présent alors qu'il ne l'était pas (fausse alarme), j'obtiendrai ce qui en moyenne a poussé le sujet à répondre de cette manière, et donc l'équivalent "*template*" interne du chiffre 3 du sujet. Cette image peut être rendu encore plus claire si je lui soustrais son opposé, son "*négatif*" photographique (pour filer l'exemple, toutes les fois où le sujet a dit que le chiffre 3 était absent alors qu'il était présent). Cette technique, d'abord cantonnée au champ de la psychophysique, est maintenant employée dans d'autres champs de la psychologie.
+L'image de classification est une technique comportementale employée en psychophysique. Dans sa forme traditionnelle, elle consiste à ajouter du "*bruit visuel*", c'est-à-dire des pixels distribués aléatoirement, aux stimuli présentés aux sujets. Ces derniers réalisent par exemple une tâche de détection classique, comme dire si le chiffre 3 est présent. Avec suffisamment d'essais, il est possible de faire la moyenne des pixels ajoutés aux stimuli dans l'expérience afin d'en tirer une image de classification. Par exemple, si je fais la moyenne des pixels de tous les essais où le sujet a dit que le chiffre 3 était présent alors qu'il ne l'était pas (fausse alarme), j'obtiendrai ce qui en moyenne a poussé le sujet à répondre de cette manière, et donc l'équivalent du **"*template*" interne** du chiffre 3 du sujet. Cette image peut être rendu encore plus claire si je lui soustrais son opposé, son "*négatif*" photographique (pour filer l'exemple, toutes les fois où le sujet a dit que le chiffre 3 était absent alors qu'il était présent). Cette technique, d'abord cantonnée au champ de la psychophysique, est maintenant employée dans d'autres champs de la psychologie.
 
 ![Figure_female_social_psy](CI_soc.png)
 
 *Exemple de l'utilisation de l'image de classification en psychologie sociale (Brinkman et al, 2019)*
 
-L'intérêt de cette technique, et ce qui la rend si intéressante, est sa nature visuelle et le fait qu'on ne sache pas à l'avance ce qu'on va obtenir : "*Is it the visual nature of the classification image, or is it its exploratory nature that resembles a sort of archeology of perceptual processes » that makes it interesting ?*" (Eckstein & Ahumada, 2002).
+L'intérêt de cette technique, et ce qui la rend si intéressante, est **sa nature visuelle et sa dimension exploratoire** : "*Is it the visual nature of the classification image, or is it its exploratory nature that resembles a sort of archeology of perceptual processes » that makes it interesting ?*" (Eckstein & Ahumada, 2002).
 
 ### Application de la technique de l'image de classification à la dépendance sérielle
 
 La tâche était simple : les sujets mémorisaient un *Gabor patch* dans une certaine orientation au tout début de l'expérience. Ensuite, après un bref entraînement, ils devaient indiquer si le stimulus qui s'affichait devant eux était orienté à droite ou à gauche du Gabor de référence.
 
-L'idée était donc d'étudier la dépendance sérielle, dans une tâche de jugement d'orientation, via la technique de l'image de classification. Cela permettrait de savoir ce qui, dans les stimuli précédant le stimulus actuelle, influençait la réponse actuelle du sujet. Autrement dit, de savoir quels aspects du stimulus intervenaient dans la dépendance sérielle.
+L'idée était donc d'**étudier la dépendance sérielle, dans une tâche de jugement d'orientation, via la technique de l'image de classification**. Cela permettrait de savoir ce qui, dans les stimuli précédant le stimulus actuelle, influençait la réponse actuelle du sujet. Autrement dit, de savoir quels aspects du stimulus intervenaient dans la dépendance sérielle.
 
 Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux stimuli. Cela se justifiait dans la mesure où nous ne  voulions pas bruiter les données, et où justement nous étions intéressés par les stimuli précédant le stimulus actuel. Dès lors, comment obtenir l'image de classification ? En faisant la moyenne des pixels des stimuli en (n-1) vus par le sujet, et ayant influencé sa réponse en (n) via le phénomène de la dépendance sérielle. 
 
@@ -45,7 +45,7 @@ Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux sti
 *Résumé de l'adaptation de la technique de l'image de classification à la dépendance sérielle dans notre expérience (aucun bruit n'est ajouté au stimulus*
 
 
-La démarche était alors doublement exploratoire : non seulement nous ne savions pas quelle image nous allions obtenir, mais de surcroît, cette image de classification ne correspondait pas à la technique classique, consistant à faire la moyenne du bruit visuel ajouté aux stimuli présentés pour telle réponse.
+La démarche était alors doublement exploratoire : non seulement nous ne savions pas quelle image nous allions obtenir, mais de surcroît, **cette image de classification ne correspondait pas à la technique classique**, consistant à faire la moyenne du bruit visuel ajouté aux stimuli présentés pour telle réponse.
 
 ## Méthode
 
@@ -86,7 +86,7 @@ L'image de classification était obtenue en relevant toutes les orientations en 
 
 *Méthode standard pour calculer une image de classification (Murray, 2011)*
 
-Ainsi, nous adaptions la technique de l'image de classification en remplaçant le bruit visuel par les orientations vues en (n-1); le phénomène de dépendance sériel était donc ici la source de "*bruit*" qui influençait les réponses du sujet.
+Ainsi, **nous adaptions la technique de l'image de classification en remplaçant le bruit visuel par les orientations vues en (n-1)**; le phénomène de dépendance sériel était donc ici la source de "*bruit*" qui influençait les réponses du sujet.
 
 
 ## Resultats
@@ -101,7 +101,7 @@ Afin de s'assurer que la tâche était correctement effectuée par les sujets, i
 
 Le seuil moyen (i.e. l'orientation pour laquelle il y avait 50% de réponses "gauche", et 50% de réponses "droite") était de 224.4°, ce qui est relativement proche du seuil objectif de 225° (orientation de référence).
 
-On voit donc ici que les sujets réalisent bien en moyenne la tâche de discrimination demandée.
+On voit donc ici que **les sujets réalisent bien en moyenne la tâche de discrimination demandée**.
 
 ### Mise en évidence de la dépendance sérielle
 
@@ -113,7 +113,7 @@ On obtient ainsi la même figure, mais avec deux courbes bien distinctes, comme 
 
 *Courbe rouge : essai en (n-1) à droite; courbe bleue : essai en (n-1) à gauche de l'orientation de référence*
 
-On note ici que le seuil n'est pas le même en fonction de l'orientation en (n-1) : quand l'essai en (n-1) est à droite, le seuil se décale vers la gauche (ici : 222.5), et le sujet va ainsi avoir tendance à considérer que l'orientation en (n) est à droite alors qu'elle est, par exemple, très légèrement à gauche de l'ancre de référence. Et inversement pour les essais en (n-1) à gauche.
+On note ici que **le seuil n'est pas le même en fonction de l'orientation en (n-1)** : quand l'essai en (n-1) est à droite, le seuil se décale vers la gauche (ici : 222.5), et le sujet va ainsi avoir tendance à considérer que l'orientation en (n) est à droite alors qu'elle est, par exemple, très légèrement à gauche de l'ancre de référence. Et inversement pour les essais en (n-1) à gauche.
 
 Pour autant, si les résultats de ce sujet-ci sont particulièrement marqués, il faut noter que l'effet est parfois plus léger - si ce n'est inexistant - pour certains sujets, voire inverse aux résultats attendus. Ainsi, faire la moyenne des résultats sur tous les sujets risquerait de neutraliser les effets de dépendance sérielle à cause de cette variabilité inter-sujets.
 
@@ -131,7 +131,7 @@ Voici un exemple d'images de classification obtenues :
 
 *Image de classification pour les orientations vues en (n-1) avec une réponse droite en (n)*
 
-Le problème majeur qui se pose reste l'interprétation de ces images de classification, qui, rappelons-le, n'ont pas été obtenues de la façon habituelle. Il s'agit ici de la différence des moyennes des matrices de pixels de Gabors dans différentes orientations.
+Le problème majeur qui se pose reste **l'interprétation de ces images de classification**, qui, rappelons-le, n'ont pas été obtenues de la façon habituelle. Il s'agit ici de la différence des moyennes des matrices de pixels de Gabors dans différentes orientations.
 
 #### Corrélation avec les images "contrôles" calculées à partir de l'orientation du Gabor à l'essai (n)
 
@@ -143,10 +143,12 @@ Il est tout d'abord possible de calculer la corrélation de ces images de classi
 
 On remarque que l'image de classification "contrôle" est plus marquée et plus nette que l'image de classification prenant en compte les essais vus en (n-1); cela est attendu dans la mesure où l'effet du stimulus actuel est bien plus pregnant que le phénomène de dépendance sérielle.
 
-Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image de classification calculée à partir des Gabors à l'essai (n-1) pour les réponses gauches est positivement corrèlée avec l'image contrôle des Gabors à l'essai (n) pour les réponses gauches, et négativement pour l'image calculée à partir des Gabors à l'essai (n) pour les réponses droites. On s'attend donc à une corrélation positive pour les mêmes réponses : (n-1)/gauche et (n)/gauche, ou encore (n-1
-)/droite et (n)/droite, et à une corrélation négative pour les réponses différentes : (n-1)/gauche et (n)/droite, ou encore (n-1
-)/droite et (n)/gauche.
+Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image de classification calculée à partir des Gabors à l'essai (n-1) pour les réponses gauches est positivement corrèlée avec l'image contrôle des Gabors à l'essai (n) pour les réponses gauches, et négativement pour l'image calculée à partir des Gabors à l'essai (n) pour les réponses droites. 
 
+On s'attend donc à une corrélation positive pour les images calculées en (n) et en (n-1) pour les mêmes réponses en (n), et négative pour des réponses différentes en (n). C'est en effet le résultat qu'on obtient en faisant la corrélation des images de classification grâce à la fonction "*corr2*" de l'"*Image Processing Toolbox* de Matlab qui permet de calculer la corrélation entre deux images 2D :
+
+- une corrélation positive moyenne de **r = 0.17** pour les images de classification portant sur les mêmes réponses
+- une corrélation négative moyenne de **r = -0.17** pour les images de classification portant sur des réponses différentes
 
 #### Analyse spectrale et analyse de la variabilité
 
