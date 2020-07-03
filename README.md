@@ -167,7 +167,7 @@ Le fait que ces corrélations soient relativement faibles s'explique par le fait
 
 ### Esprit scientifique
 - partage données / science ouverte (nota testable)
-- collaboration
+- collaboration : plus compliqué à cause du confinement, à distance; ne pas hésiter à poser plus de questions !
 - problème : force du biais de confirmation
 
 ### Programmation
