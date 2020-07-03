@@ -125,15 +125,28 @@ Voici un exemple d'images de classification obtenues :
 
 ![left](3935_CI_left.jpg)
 
-*Image de classification pour les essais en (n-1) à gauche*
+*Image de classification pour les orientations vues en (n-1) avec une réponse gauche en (n)*
 
 ![right](3935_CI_right.jpg)
 
-*Image de classification pour les essais en (n-1) à droite*
+*Image de classification pour les orientations vues en (n-1) avec une réponse droite en (n)*
 
-#### Corrélation avec les images "contrôles" calculées à partir de l'essai en (n)
+Le problème majeur qui se pose reste l'interprétation de ces images de classification, qui, rappelons-le, n'ont pas été obtenues de la façon habituelle. Il s'agit ici de la différence des moyennes des matrices de pixels de Gabors dans différentes orientations.
 
-#### Analyse spectrale, analyse de la variabilité ???
+#### Corrélation avec les images "contrôles" calculées à partir de l'orientation du Gabor à l'essai (n)
+
+Il est tout d'abord possible de calculer la corrélation de ces images de classification avec l'image de classification "contrôle" obtenue en prenant en compte non pas l'orientation du Gabor à l'essai (n-1), mais à l'essai (n). Cette image de classification contrôle reflète ce qui à l'essai actuel a influencé la réponse du sujet, et donc tout simplement, est une image du stimulus "*moyen*" qui a poussé le sujet à répondre gauche ou droite. 
+
+![left_control](3935_CI_left_control.jpg)
+
+*Exemple d'image de classification "contrôle" pour les orientations vues en (n) avec une réponse gauche en (n)*
+
+Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image de classification calculée à partir des Gabors à l'essai (n-1) pour les réponses gauches est positivement corrèlée avec l'image contrôle des Gabors à l'essai (n) pour les réponses gauches, et négativement pour l'image calculée à partir des Gabors à l'essai (n) pour les réponses droites. On s'attend donc à une corrélation positive pour les mêmes réponses : (n-1)/gauche et (n)/gauche, ou encore (n-1
+)/droite et (n)/droite, et à une corrélation négative pour les réponses différentes : (n-1)/gauche et (n)/droite, ou encore (n-1
+)/droite et (n)/gauche.
+
+
+#### Analyse spectrale et analyse de la variabilité
 
 ## Discussion
 
