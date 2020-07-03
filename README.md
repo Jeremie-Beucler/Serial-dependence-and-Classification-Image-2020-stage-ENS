@@ -150,8 +150,35 @@ On s'attend donc à une corrélation positive pour les images calculées en (n) 
 - une corrélation positive moyenne de **r = 0.17** pour les images de classification portant sur les mêmes réponses
 - une corrélation négative moyenne de **r = -0.17** pour les images de classification portant sur des réponses différentes
 
-#### Analyse spectrale et analyse de la variabilité
+Le fait que ces corrélations soient relativement faibles s'explique par le fait que les images de classification obtenues à partir des orientations en (n-1) sont plus "*bruitées*" que les images de classification contrôle, dans la mesure où elles dépendent uniquement du phénomène de dépendance sérielle.
+
+#### (Analyse spectrale et analyse de la variabilité)
 
 ## Discussion
 
 ## Ce que j'ai appris de ce stage
+
+### Expertise théorique
+- dep ser
+- image class : transversal
+- psychophysi : fonction sigm ...
+
+=> articles : nota techniques employées par les autres ...
+
+### Esprit scientifique
+- partage données / science ouverte (nota testable)
+- collaboration
+- problème : force du biais de confirmation
+
+### Programmation
+
+- Matlab (livre)
+=> matrices ...
+- psychtoolbox (un peu comme l'autre librairie)
+- testable
+
+### Statistiques et exploitation des données
+
+- point noir : + compliqué pour moi, moins à l'aise
+
+
