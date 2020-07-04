@@ -53,7 +53,7 @@ La tâche était simple : les sujets mémorisaient un *Gabor patch* dans une cer
 
 L'idée était donc d'**étudier la dépendance sérielle, dans une tâche de jugement d'orientation, via la technique de l'image de classification**. Cela permettrait de savoir ce qui, dans les stimuli précédant le stimulus actuelle, influençait la réponse actuelle du sujet. Autrement dit, de savoir quels aspects du stimulus intervenaient dans la dépendance sérielle.
 
-Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux stimuli. Cela se justifiait dans la mesure où nous ne  voulions pas bruiter les données, et où justement nous étions intéressés par les stimuli précédant le stimulus actuel. Dès lors, comment obtenir l'image de classification souhiatée ? En faisant la moyenne des pixels des stimuli vus par le sujet en (n-1) , et ayant influencé sa réponse en (n) via le phénomène de la dépendance sérielle. 
+Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux stimuli. Cela se justifiait dans la mesure où nous ne  voulions pas bruiter les données, et où justement nous étions intéressés par les stimuli précédant le stimulus actuel. Dès lors, comment obtenir l'image de classification souhaitée ? En faisant la moyenne des pixels des stimuli vus par le sujet en (n-1) , et ayant influencé sa réponse en (n) via le phénomène de la dépendance sérielle. 
 
 ![processus](processus_CI.png)
 
