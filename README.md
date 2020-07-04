@@ -101,7 +101,7 @@ L'image de classification était obtenue en relevant toutes les orientations en 
 
 *Méthode standard pour calculer une image de classification (Murray, 2011)*
 
-Ainsi, **nous adaptions la technique de l'image de classification en remplaçant le bruit visuel par les orientations vues en (n-1)**; le phénomène de dépendance sériel était donc ici la source de "*bruit*" qui influençait les réponses du sujet.
+Ainsi, **nous avons adapté la technique de l'image de classification en remplaçant le bruit visuel par les orientations vues en (n-1)**; le phénomène de dépendance sériel était donc ici la source de "*bruit*" qui influençait les réponses du sujet.
 
 
 ## <a name="resultats"></a>Resultats
@@ -114,7 +114,7 @@ Afin de s'assurer que la tâche était correctement effectuée par les sujets, i
 
 *Modélisation de la réponse des sujets en fonction de l'orientation à l'essai (n) sous Matlab*
 
-Le seuil moyen (i.e. l'orientation pour laquelle il y avait 50% de réponses "gauche", et 50% de réponses "droite") était de 224.4°, ce qui est relativement proche du seuil objectif de 225° (orientation de référence).
+Le seuil moyen (i.e. l'orientation pour laquelle il y avait 50% de réponses "gauche", et 50% de réponses "droite") est de 224.4°, ce qui est relativement proche du seuil objectif de 225° (orientation de référence).
 
 On voit donc ici que **les sujets réalisent bien en moyenne la tâche de discrimination demandée**.
 
@@ -156,7 +156,7 @@ Il est tout d'abord possible de calculer la corrélation de ces images de classi
 
 *Exemple d'image de classification "contrôle" pour les orientations vues en (n) avec une réponse gauche en (n)*
 
-On remarque que l'image de classification "contrôle" est plus marquée et plus nette que l'image de classification prenant en compte les essais vus en (n-1); cela est attendu dans la mesure où l'effet du stimulus actuel est bien plus pregnant que le phénomène de dépendance sérielle.
+On remarque que l'image de classification "contrôle" est plus marquée et plus nette que l'image de classification prenant en compte les essais vus en (n-1); cela est attendu dans la mesure où l'effet du stimulus actuel est bien plus prégnant que le phénomène de dépendance sérielle.
 
 Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image de classification calculée à partir des Gabors à l'essai (n-1) pour les réponses gauches est positivement corrèlée avec l'image contrôle des Gabors à l'essai (n) pour les réponses gauches, et négativement pour l'image calculée à partir des Gabors à l'essai (n) pour les réponses droites. On s'attend donc à une corrélation positive pour les images calculées en (n) et en (n-1) pour les mêmes réponses en (n), et négative pour des réponses différentes en (n). C'est en effet le résultat qu'on obtient en faisant la corrélation des images de classification grâce à la fonction "*corr2*" de l'"*Image Processing Toolbox* de Matlab qui permet de calculer la corrélation entre deux images 2D :
 
@@ -171,7 +171,7 @@ Le fait que ces corrélations soient relativement faibles s'explique par le fait
 
 ### Expertise théorique
 
-Avant de commencer ce stage, je ne connaissais pas le phénomène de la dépendance sérielle, remis au goût du jour par l'article de Fischer & Whitney (2014). Il est toujours intéressant de découvrir des phénomènes perceptifs aussi basiques, notamment parce que ceux-ci peuvent jouer un rôle dans la plupart des expériences de psychologie, sans que les expérimentateurs s'en rendent compte.
+Avant de commencer ce stage, je ne connaissais pas le phénomène de la dépendance sérielle, remis au goût du jour par l'article de Fischer & Whitney (2014). Il est toujours utile de découvrir des phénomènes perceptifs d'aussi "bas-niveau", notamment parce que ceux-ci peuvent jouer un rôle dans la plupart des expériences de psychologie, sans que l'on ne puisse forcément s'en rendre compte.
 
 Je connaissais la technique de l'image de classification, pour l'avoir étudiée en cours de méthodologie à l'ENS et pour avoir lu quelques articles l'utilisant. Mais, pour autant, je n'en comprenais pas la méthode de calcul, et n'avais pas réalisé à quel point cette technique peut être employé dans tous les champs de la psychologie, notamment en psychologie sociale.
 
@@ -191,13 +191,13 @@ Enfin, à cause du confinement, il a fallu reprogrammer l'expérience afin de la
 
 ### Esprit scientifique
 
-Par ailleurs, ce stage m'a permis de développer mon esprit scientifique. Tout d'abord, j'ai pu découvrir ou réemployer des outils très utiles pour se rapproche de l'"*open science*", comme le site "*testable.org*" (Rezlescu, 2015) qui permet de faire passer des expérience en ligne, ou la plateforme Github qui permet de partager par exemple le code que l'on a employé pour programmer l'expérience ou encore les données recueillies auprès des participants.
+Par ailleurs, ce stage m'a permis de commencer à développer un esprit scientifique. Tout d'abord, j'ai pu découvrir ou réemployer des outils très utiles pour se rapproche de l'"*open science*", comme le site "*testable.org*" (Rezlescu, 2015) qui permet de faire passer des expérience en ligne, ou la plateforme Github qui permet de partager par exemple le code que l'on a employé pour programmer l'expérience ou encore les données recueillies auprès des participants.
 
-Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Cela pouvait parfois s'avérer risqué, dans la mesure où cela a pu créer chez moi une forme de passivité, émanant sans doute aussi de la situation de confinement. Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout essayer de proposer plus d'idées pour l'expérience.
+Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout essayer de proposer plus d'idées pour l'expérience.
 
-Enfin, ce stage m'a fait réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas retrouvée chez tous les sujets.
+Enfin, ce stage m'a permis de réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas retrouvée chez tous les sujets.
 
-### Puisqu'il faut conclure ...
+### Puisqu'il faut conclure
 
 En somme, cette première expérience de recherche aura été enrichissante sur tous les plans, et m'aura donné envie de continuer dans cette voie qu'est la recherche en psychologie.
 
