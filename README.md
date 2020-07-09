@@ -4,7 +4,7 @@
 
 Ce stage de recherche, qui s'est déroulé de mars à juin 2020, a eu lieu dans le cadre du DENS, sous la tutelle de Thérèse Collins, à l'**INCC** (Integrative Neuroscience and Cognition Center, Université de Paris). La durée de travail était officiellement d'un jour plein par semaine.
 
-En raison de la cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé preque entièrement à distance, par courriels ou visioconférences. De même, l'expérience a dû être passée en ligne par les sujets.
+En raison de la cause de la situation sanitaire et du confinement qui en a découlé, le stage n'a pas eu lieu au laboratoire, mais s'est déroulé presque entièrement à distance, par courriels ou visioconférences. De même, l'expérience a dû être passée en ligne par les sujets.
 
 
 ## Sommaire
