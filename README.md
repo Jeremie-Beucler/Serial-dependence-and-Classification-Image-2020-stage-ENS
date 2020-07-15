@@ -73,7 +73,7 @@ Dix sujets ont passé l'expérience (n = 10), dont 4 garçons et 6 filles d'un �
 
 ### Stimuli
 
-Les *Gabor patchs* ont été créés sur Matlab grâce à la fonction "*CreateProceduralGabor*" de *Psychtoolbox* (Kleiner, Brainard & Peli, 2007). Ils avaient une fréquence spatiale de 0.03 cycles par pixel (?) et un écart-type de 32° (?). /à confirmer/
+Les *Gabor patchs* ont été créés sur Matlab grâce à la fonction "*CreateProceduralGabor*" de *Psychtoolbox* (Kleiner, Brainard & Peli, 2007). Ils avaient une fréquence spatiale de 0.03 cycles par pixel et un écart-type de 32° (voir le code dans le fichier *experiment_serial_dependence*).
 
 ![gabor](example_gabor.png)
 
@@ -150,7 +150,7 @@ Le problème majeur qui se pose reste **l'interprétation de ces images de class
 
 #### Corrélation avec les images "contrôles" calculées à partir de l'orientation du Gabor à l'essai (n)
 
-Il est tout d'abord possible de calculer la corrélation de ces images de classification avec l'image de classification "contrôle" obtenue en prenant en compte non pas l'orientation du Gabor à l'essai (n-1), mais à l'essai (n). Cette image de classification contrôle reflète ce qui à l'essai actuel a influencé la réponse du sujet, et donc tout simplement, est une image du stimulus "*moyen*" qui a poussé le sujet à répondre gauche ou droite. 
+Il est possible de calculer la corrélation de ces images de classification avec l'image de classification "contrôle" obtenue en prenant en compte non pas l'orientation du Gabor à l'essai (n-1), mais à l'essai (n). Cette image de classification contrôle reflète ce qui à l'essai actuel a influencé la réponse du sujet, et donc tout simplement, est une image du stimulus "*moyen*" qui a poussé le sujet à répondre gauche ou droite. 
 
 ![left_control](3935_CI_left_control.jpg)
 
@@ -165,7 +165,21 @@ Ainsi, calculer cette corrélation permet de vérifier par exemple que l'image d
 
 Le fait que ces corrélations soient relativement faibles s'explique par le fait que les images de classification obtenues à partir des orientations en (n-1) sont plus "*bruitées*", moins lisibles, que les images de classification contrôle, dans la mesure où elles dépendent uniquement du phénomène de dépendance sérielle et non pas du stimulus vu à l'essai (n).
 
-#### (Analyse spectrale et analyse de la variabilité)/## Discussion
+#### Densité spectrale de puissance
+
+Pour interpréter les images de classification obtenues, j'ai tenté de réaliser une analyse de la **densité spectrale de puissance** (grâce à cette formule : https://fr.mathworks.com/matlabcentral/answers/1248-power-spectral-density-of-image), afin de mettre en évidence les zones des images porteuses d'information, mais je n'ai pas réussi à discerner de différence visible entre les images obtenues pour les différentes images de classification.
+
+![left_spectra](spectra_left.png)
+
+*Densité spectrale de puissance pour une image de classification gauche*
+
+![right_spectra](spectra_right.png)
+
+*Densité spectrale de puissance pour l'image de classification droite correspondante*
+
+#### Conclusion sur l'interprétation des images de classification obtenues
+
+On peut ainsi conclure à la difficulté de l'interprétation des images de classification. Cela peut être expliqué par plusieurs raisons. Tout d'abord, ces images de classification n'ont pas été produites via la technique conventionnelle. Ensuite, il est parfois difficile de donner du sens à une image de classification, et il n'y a pas de consensus établi sur les techniques utilisées pour les analyser.
 
 ## <a name="bilan"></a>Bilan du stage
 
@@ -196,6 +210,8 @@ Par ailleurs, ce stage m'a permis de commencer à développer un esprit scientif
 Ensuite, j'ai pu saisir la mesure de l'importance de la collaboration, avec une chercheuse expérimentée qui pouvait répondre à toutes mes questions, et qui n'hésitait pas à me partager ses questionnements, le cheminement de sa pensée ... Je pense qu'*in fine* j'aurais pu poser plus de question à ma tutrice et surtout essayer de proposer plus d'idées pour l'expérience.
 
 Enfin, ce stage m'a permis de réfléchir au fameux *biais de confirmation d'hypothèse* (Nickerson, 1998), dont il est très difficile de se prémunir dans la recherche, lorsqu'on s'attend à trouver tel ou tel résultat. Il m'a ainsi été difficile d'admettre que la dépendance sérielle n'était pas retrouvée chez tous les sujets.
+
+De même, l'interprétation des images de classification n'a pas été concluante. Si j'avais pu disposer de plus de temps, peut-être aurais-je pu trouver une façon d'exploiter efficacement les résultats obtenus. Mais le stage était relativement court (3 mois), et le confinement a considérablement ralenti le travail fourni.
 
 ### Puisqu'il faut conclure
 
