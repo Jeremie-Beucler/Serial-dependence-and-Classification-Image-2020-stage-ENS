@@ -43,7 +43,7 @@ L'image de classification est une technique comportementale employée en psychop
 
 *Exemple de l'utilisation de l'image de classification en psychologie sociale (Brinkman et al, 2019)*
 
-L'intérêt de cette technique est **sa nature visuelle et sa dimension exploratoire** : "*Is it the visual nature of the classification image, or is it its exploratory nature that resembles a sort of archeology of perceptual processes » that makes it interesting ?*" (Eckstein & Ahumada, 2002).
+L'intérêt de cette technique est **sa nature visuelle et sa dimension exploratoire** : "*Is it the visual nature of the classification image, or is it its exploratory nature that resembles a sort of archeology of perceptual processes that makes it interesting ?*" (Eckstein & Ahumada, 2002).
 
 ### Application de la technique de l'image de classification à la dépendance sérielle
 
@@ -51,7 +51,7 @@ L'intérêt de cette technique est **sa nature visuelle et sa dimension explorat
 
 La tâche était simple : les sujets mémorisaient un *Gabor patch* dans une certaine orientation au tout début de l'expérience. Ensuite, après un bref entraînement, ils devaient indiquer si le stimulus qui s'affichait devant eux était orienté à droite ou à gauche du Gabor de référence.
 
-L'idée était donc d'**étudier la dépendance sérielle, dans une tâche de jugement d'orientation, via la technique de l'image de classification**. Cela permettrait de savoir ce qui, dans les stimuli précédant le stimulus actuelle, influençait la réponse actuelle du sujet. Autrement dit, de savoir quels aspects du stimulus intervenaient dans la dépendance sérielle.
+L'idée était donc d'**étudier la dépendance sérielle, dans une tâche de jugement d'orientation, via la technique de l'image de classification**. Cela permettrait de savoir ce qui, dans les stimuli précédant le stimulus actuel, influençait la réponse actuelle du sujet. Autrement dit, de savoir quels aspects du stimulus intervenaient dans la dépendance sérielle.
 
 Cependant, dans notre expérience, aucun bruit visuel n'a été rajouté aux stimuli. Cela se justifiait dans la mesure où nous ne  voulions pas bruiter les données, et où justement nous étions intéressés par les stimuli précédant le stimulus actuel. Dès lors, comment obtenir l'image de classification souhaitée ? En faisant la moyenne des pixels des stimuli vus par le sujet en (n-1) , et ayant influencé sa réponse en (n) via le phénomène de la dépendance sérielle. 
 
